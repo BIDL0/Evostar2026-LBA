@@ -1,7 +1,7 @@
 # Evostar2026-LBA
 This repo demonstrates the results from the Evostar 2026 late-breaking abstract entitled:
 
-** The Game of Life-Like Glider Evolution **
+<b>The Game of Life-Like Glider Evolution</b>
 
 The case studies presented in the paper can be seen in live animations here:
 
