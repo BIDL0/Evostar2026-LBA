@@ -5,6 +5,14 @@ This repo demonstrates the results from the Evostar 2026 late-breaking abstract 
 
 The case studies presented in the paper can be seen in live animations here:
 
+<table>
+  <tr>
+    <td><img src="https://github.com/BIDL0/Evostar2026-LBA/blob/main/gliders_race.gif" alt="Gliders race"></td>
+    <td><img src="https://github.com/BIDL0/Evostar2026-LBA/blob/main/glider_reverses.gif" alt="Gliders reverses"></td>
+    <td><img src="https://github.com/BIDL0/Evostar2026-LBA/blob/main/glider_duplicates.gif" alt="Gliders duplicates"></td>
+  </tr>
+</table> 
+
 <div class="row">
    <div class="column">
         <img src="https://github.com/BIDL0/Evostar2026-LBA/blob/main/gliders_race.gif" alt="Gliders race">
